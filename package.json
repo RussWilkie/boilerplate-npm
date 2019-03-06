@@ -3,7 +3,6 @@
 	"author": "RussWilkie",
 	"description": "A project that does something awesome",
 	"dependencies": {
-		"package-name": "version",
 		"moment" : "2.14.0",
 		"express": "^4.14.0"
 	},
